@@ -44,9 +44,11 @@ model = LiquidQuantifier("data/Monitoring_Data_Example.xlsx")
 results = model.run_pipeline(show_plots=True)
 ```
 
-* Option 2: In any Python interpreter under your Conda environment with the cloned package installed:
-Open ./demo.py and click Run (e.g., in VS Code or Spyder), or, open ./demo.ipynb in Jupyter Notebook and run all cells
+* Option 2: In any Python interpreter under your Conda environment with the cloned package installed
 
+(1) Open ['demo.py'](https://github.com/Julylle/Liquid-based-Nitrous-Oxide-Quantification-/blob/main/demo.py) and click Run (e.g., in VS Code or Spyder)
+, OR,
+(2) Open ['demo.ipynb'](https://github.com/Julylle/Liquid-based-Nitrous-Oxide-Quantification-/blob/main/demo.ipynb) in Jupyter Notebook and run all cells
 
 
 ---
