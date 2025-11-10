@@ -23,8 +23,8 @@ openpyxl
 Clone this repository and install in editable (development) mode:
 
 ```bash
-git clone https://github.com/Julylle/Liquid-based-Nitrous-Oxide-Quantification-.git
-cd Liquid-based-Nitrous-Oxide-Quantification-
+git clone https://github.com/Julylle/Liquid-based-Nitrous-Oxide-Quantification.git
+cd Liquid-based-Nitrous-Oxide-Quantification
 python -m pip install -e .
 
 from liquidbased_quantification import LiquidQuantifier
